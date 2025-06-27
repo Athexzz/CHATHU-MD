@@ -1,12 +1,12 @@
 {
-  "name": "yourbot",
+  "name": "CHATHUKA-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
-    "stop": "pm2 stop wabot",
-    "restart": "pm2 restart wabot"
+    "start": "pm2 start index.js --deep-monitoring --attach --name CHATHUKA-MD",
+    "stop": "pm2 stop CHATHUKA-BOT",
+    "restart": "pm2 restart CHATHUKA-BOT"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
